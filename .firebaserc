@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": ""
+    "majour": "adj-coding",
+    "default": "adj-coding"
   }
 }
