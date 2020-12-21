@@ -285,74 +285,23 @@ function MainBody() {
 
                 <h2>
                   <font>
-                    <font>Title</font>
+                    <font>Website Developers</font>
                   </font>
                 </h2>
                 <p>
                   <font>
                     <font>
-                      If the term was accelerated, before the participant's
-                      score, that is, George Ozar made the stage.{" "}
+                      Access Leading Website-Development Tools that Enable You
+                      to Build Anything You Want. It all Starts with a Stunning
+                      Website.{" "}
                     </font>
                     <font>
-                      That and declaring the coast, could be an prohibitively
-                      expensive replacement.{" "}
+                      Begin Your Online Journey Today. Free multilingual fonts.
+                      100s of Apps.{" "}
                     </font>
                     <font>
-                      To what the right-wing government was in, the evacuation
-                      of the result before was done.{" "}
-                    </font>
-                    <font>Help Poland, ie this provision.</font>
-                  </font>
-                </p>
-                <p>
-                  <a className="btn btn-secondary" href="/" role="button">
-                    <font>
-                      <font>View details</font>
-                    </font>
-                  </a>
-                </p>
-              </div>
-
-              <div className="col-lg-4">
-                <svg
-                  className="bd-placeholder-img rounded-circle"
-                  width="140"
-                  height="140"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  aria-label="Placeholder: 140x140"
-                  preserveAspectRatio="xMidYMid slice"
-                  focusable="false"
-                >
-                  <title>Placeholder</title>
-                  <rect width="100%" height="100%" fill="#777"></rect>
-                  <text x="50%" y="50%" fill="#777" dy=".3em">
-                    140x140
-                  </text>
-                </svg>
-
-                <h2>
-                  <font>
-                    <font>Title</font>
-                  </font>
-                </h2>
-                <p>
-                  <font>
-                    <font>
-                      It is the last of the European dollars agreement, again
-                      Tokyo and with it, and it has spawned business from it.{" "}
-                    </font>
-                    <font>
-                      From Lala June Africa, traditional control and from 30.{" "}
-                    </font>
-                    <font>
-                      It is the dear convention of Wikipedia, enabled, and to
-                      defeat the aggression of Ireland.{" "}
-                    </font>
-                    <font>
-                      And he accepted the blessing of the Europeans for a loss,
-                      by challenging the Philippines and not.
+                      Customizable online store. Multiple payment methods. Top
+                      industry hosting.{" "}
                     </font>
                   </font>
                 </p>
@@ -385,25 +334,68 @@ function MainBody() {
 
                 <h2>
                   <font>
-                    <font>Title</font>
+                    <font>Website Designers</font>
                   </font>
                 </h2>
                 <p>
                   <font>
                     <font>
-                      Other than the heavy and so called conditions, there was
-                      no history of war for control at a time, the house of no
-                      development.{" "}
+                      Web designers plan, create and code internet sites and web
+                      pages, many of which combine text with sounds, pictures,
+                      graphics and video clips.{" "}
                     </font>
-                    <font>To Mankind in Japan. </font>
                     <font>
-                      As for the famous two, Ireland is what, to declare and
-                      multiply and cities.{" "}
+                      A web designer is responsible for creating the design and
+                      layout of a website or web pages.{" "}
                     </font>
-                    <font>In non-party to self-control. </font>
                     <font>
-                      Second Congress except from, the 30th century and the
-                      beginning of the Eastern Province.
+                      It and can mean working on a brand new website or updating
+                      an already existing site.{" "}
+                    </font>
+                  </font>
+                </p>
+                <p>
+                  <a className="btn btn-secondary" href="/" role="button">
+                    <font>
+                      <font>View details</font>
+                    </font>
+                  </a>
+                </p>
+              </div>
+
+              <div className="col-lg-4">
+                <svg
+                  className="bd-placeholder-img rounded-circle"
+                  width="140"
+                  height="140"
+                  xmlns="http://www.w3.org/2000/svg"
+                  role="img"
+                  aria-label="Placeholder: 140x140"
+                  preserveAspectRatio="xMidYMid slice"
+                  focusable="false"
+                >
+                  <title>Placeholder</title>
+                  <rect width="100%" height="100%" fill="#777"></rect>
+                  <text x="50%" y="50%" fill="#777" dy=".3em">
+                    140x140
+                  </text>
+                </svg>
+
+                <h2>
+                  <font>
+                    <font>Video Editors</font>
+                  </font>
+                </h2>
+                <p>
+                  <font>
+                    <font>
+                      According to the Bureau of Labor Statistics, film and
+                      video editors in the U.S. make an average of $40 an hour.{" "}
+                    </font>
+                    <font>
+                      Less experienced film and video editors make anywhere from
+                      $35,000 to $40,000 a year, while more experienced editors
+                      can make upwards of $80,000.{" "}
                     </font>
                   </font>
                 </p>
@@ -423,7 +415,7 @@ function MainBody() {
               <div className="col-md-7">
                 <h2 className="featurette-heading">
                   <font>
-                    <font>Distinguished First Title.</font>
+                    <font>Website Developers.</font>
                   </font>
                   <span className="text-muted">
                     <font>
@@ -479,7 +471,7 @@ function MainBody() {
               <div className="col-md-7 order-md-2">
                 <h2 className="featurette-heading">
                   <font>
-                    <font>Oh yeah, that's good.</font>
+                    <font>Website Designers.</font>
                   </font>
                   <span className="text-muted">
                     <font>
@@ -534,11 +526,11 @@ function MainBody() {
               <div className="col-md-7">
                 <h2 className="featurette-heading">
                   <font>
-                    <font>Finally, this.</font>
+                    <font>Lastly, Video Editors.</font>
                   </font>
                   <span className="text-muted">
                     <font>
-                      <font>Checkmate.</font>
+                      <font>Bow Chicka Wow Meaw.</font>
                     </font>
                   </span>
                 </h2>
